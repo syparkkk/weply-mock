@@ -1,6 +1,6 @@
 {
 	"artistName": "BTS",
-  "highlight": [
+  "highlights": [
     {
       "title": "MAP OF THE SOUL: 7 예약 판매",
       "subtitle": "위플리 특전 오로라 포토프레임 대공개!",
@@ -27,7 +27,7 @@
       "imageUrl": ""
     }
   ],
-  "product": [
+  "products": [
   	{
   		"new": [
   			{
@@ -115,7 +115,7 @@
   		]
   	}
   ],
-  "recentlyViewed": [
+  "recentlyViewedItems": [
   	{
   		"title": "BTS FAKELOVE Sweatshirt 001",
   		"imageUrl": "",
@@ -133,7 +133,7 @@
   		"imageUrl": "",
   	}
   ],
-  "notice": [
+  "notices": [
   	{
   		"title": "2020 BTS WINTER PACKAGE 구성품 중 일부 제품에 불량 및 표기 오류 안내",
   		"createdAt": "2020. 02. 18"
