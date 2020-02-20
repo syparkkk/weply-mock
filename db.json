@@ -26,7 +26,7 @@
       "imageUrl": ""
     }
   ],
-  "products": [
+  "products":
   	{
   		"new": [
   			{
@@ -113,7 +113,7 @@
   			}
   		]
   	}
-  ],
+  ,
   "recentlyViewedItems": [
   	{
   		"title": "BTS FAKELOVE Sweatshirt 001",
