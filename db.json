@@ -31,7 +31,7 @@
   		"new": [
         {
           "title": "BTS FAKELOVE Sweatshirt EXCLUSIVE Limited Edition With Special Logo and Design 001",
-          "imageUrl": "https://i.imgur.com/2YLvXhc.jpg",
+          "imageUrl": "https://i.imgur.com/lmyOqBw.png",
           "price": "₩69,000",
           "status": "soldout"
         },
@@ -49,7 +49,7 @@
         },
   			{
   				"title": "BTS FAKELOVE Jacket EXCLUSIVE Limited Edition With Special Logo and Design 002",
-  				"imageUrl": "https://i.imgur.com/lmyOqBw.png",
+  				"imageUrl": "https://i.imgur.com/tnG4m93.jpg",
   				"price": "₩229,000",
   				"status": "inStock"
   			}
@@ -115,10 +115,10 @@
   	}
   ,
   "recentlyViewedItems": [
-  	{
-  		"title": "BTS FAKELOVE Sweatshirt EXCLUSIVE Limited Edition With Special Logo and Design 001",
-  		"imageUrl": "https://i.imgur.com/LA6v0UU.jpg"
-  	},
+    {
+      "title": "BTS FAKELOVE Jacket EXCLUSIVE Limited Edition With Special Logo and Design 002",
+      "imageUrl": "https://i.imgur.com/tnG4m93.jpg"
+    },
   	{
   		"title": "Map Of The Soul : 7 (Set)",
   		"imageUrl": "https://i.imgur.com/pcgXoPH.jpg"
@@ -127,10 +127,10 @@
   		"title": "LOVE YOURSELF 結 'Answer'",
   		"imageUrl": "https://i.imgur.com/MQPzL6q.jpg"
   	},
-  	{
-  		"title": "BTS FAKELOVE Jacket EXCLUSIVE Limited Edition With Special Logo and Design 002",
-  		"imageUrl": "https://i.imgur.com/tnG4m93.jpg"
-  	}
+    {
+      "title": "BTS FAKELOVE Sweatshirt EXCLUSIVE Limited Edition With Special Logo and Design 001",
+      "imageUrl": "https://i.imgur.com/LA6v0UU.jpg"
+    }
   ],
   "notices": [
   	{
